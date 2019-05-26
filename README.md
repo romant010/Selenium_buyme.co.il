@@ -1,7 +1,6 @@
 #        
 Project description and goal
  
- 
 Project goal: 
 “BuyMe” website sanity test.  
 The project will use latest technologies for Automating “BuyMe” website:
@@ -20,11 +19,14 @@ Networking type: None (offline).
 Website address: https://buyme.co.il/   
  
 Guidelines:  
-1. Use the correct way to wait for elements. 2. Choose “safe” locators as much as possible. 3. Website URL will be dynamic and stored inside an external text file which will be sent with the project.  4. Each action will have documentation. 5. All variables need to have valuable names 
+1. Use the correct way to wait for elements. 
+2. Choose “safe” locators as much as possible. 
+3. Website URL will be dynamic and stored inside an external text file which will be sent with the project. 
+4. Each action will have documentation. 5. All variables need to have valuable names 
 Steps:  A. Registration screen 
-		      B. Home Screen 
-								C. Choose business screen 
-								D. Sender & Receiver information screen 
+        B. Home Screen 
+	C. Choose business screen 
+	D. Sender & Receiver information screen 
 Pick a Buisness
 Type a price
 Press radio button "למישהו אחר"
