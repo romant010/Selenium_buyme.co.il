@@ -26,9 +26,13 @@ Guidelines:
 5. All variables need to have valuable names 
 
 Steps:
+
 A. Registration screen 
+
 B. Home Screen 
+
 C. Choose business screen 
+
 D. Sender & Receiver information screen 
 
 Pick a Buisness
