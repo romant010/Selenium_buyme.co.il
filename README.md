@@ -36,29 +36,55 @@ C. Choose business screen
 D. Sender & Receiver information screen 
 
 Pick a Buisness
+
+
 Type a price
+
 Press radio button "למישהו אחר"
+
 Enter receiver name
+
 Enter sender name
+
 Enter a blessing
+
 Upload a picture
+
 Pick the event (Wedding/birthday)
+
 Press radio button "מיד אחרי התשלום"
+
 Pick Email / SMS option
+
 Enter address/ number and press save
+
 submit
+
 Enter the website
+
 Press on button " כניסה  |הרשמה"
+
 Press on button "להרשמה"
+
 Enter first name
+
 Enter email address
+
 Once logged in
+
 Pick a price point
+
 Pick the area
+
 Pick category
+
 Press the search button
+
 Enter password
+
 Enter password again
+
 Press on  radio button "אני מסכים"
+
 Press button  הרשמה" ... "
    
