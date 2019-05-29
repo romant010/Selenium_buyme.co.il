@@ -1,5 +1,5 @@
-#        
-Project description and goal
+       
+                          Project description and goal
  
 Project goal: 
 “BuyMe” website sanity test.  
@@ -9,7 +9,7 @@ The “BuyMe” system is directly connected to hundreds of stores and dozens of
 Everywhere and anytime you can browse the site, choose a store, load an online voucher (Gift Card) and send to someone dear. 
 
  
-Solution architecture:  
+Solution architecture:
 General: 
 Development platform: Automation will be developed in Python. 
 IDE: PyCharm. 
@@ -25,7 +25,7 @@ Guidelines:
 4. Each action will have documentation. 
 5. All variables need to have valuable names 
 
-Steps:
+Steps project via site buyme.co.il:
 
 A. Registration screen 
 
@@ -35,7 +35,7 @@ C. Choose business screen
 
 D. Sender & Receiver information screen 
 
-Pick a Buisness
+Pick a Business
 
 
 Type a price
